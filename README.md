@@ -21,3 +21,5 @@ I ended up following a guide on the internet: https://betterprogramming.pub/buil
 However, the program is still slow and has an O(N^3) time complexity
 
 Despite that, I learned how to turn a file into a list for the first time.
+
+The code is unfinished 
