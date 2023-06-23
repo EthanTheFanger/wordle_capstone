@@ -17,6 +17,7 @@ It is not finished however, the last thing to do is to scrape the answer off of 
 This one went a bit less smoothly
 I built a wordle clone first, but I was unable to come up with an algorithm,
 I ended up following a guide on the internet: https://betterprogramming.pub/building-a-wordle-bot-in-under-100-lines-of-python-9b980539defb
+the wordle clone was built by following this guide: https://medium.com/quick-programming/creating-wordle-in-python-ecc49a37722f
 
 However, the program is still slow and has an O(N^3) time complexity
 
